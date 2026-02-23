@@ -1,0 +1,10 @@
+{
+ "title": "NextGen Sum Challenge",
+ "steps": [
+  {
+   "title": "Create sum function",
+   "instructions": "Write function sum(a,b)",
+   "verify": "cd .tests && npm install && npm test"
+  }
+ ]
+}
